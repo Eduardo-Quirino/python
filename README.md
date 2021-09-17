@@ -10,3 +10,8 @@ os principais separadores de comando são o **ENTER** ou **;**
 - Aula 03 Escopo de Variáveis
 - Aula 04 Tipos 
 - Aula 05 Tipos numéricos, random e operações de casting 
+- Aula 06 Strings p1
+- Aula 07 Strings p2
+- Aula 08 Boolean
+- Aula 09 List
+
