@@ -12,7 +12,7 @@ x = {#Dict
 "nome":"Eduardo"
 }
 """
-
-
-print("Valor: " + x["nome"])
+x = {5, 7, 4, 5, 7, 4, 8}  # set
+print("Valor: " +str(x))
+x = frozenset({5, 7, 4, 5, 7, 4, 8})  # set
 print("Tipo: " + str(type(x)))
