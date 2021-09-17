@@ -9,3 +9,4 @@ os principais separadores de comando são o **ENTER** ou **;**
 
 - Aula 03 Escopo de Variáveis
 - Aula 04 Tipos 
+- Aula 05 Tipos numéricos, random e operações de casting 
