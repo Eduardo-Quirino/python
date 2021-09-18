@@ -14,4 +14,6 @@ os principais separadores de comando são o **ENTER** ou **;**
 - Aula 07 Strings p2
 - Aula 08 Boolean
 - Aula 09 List
+- Aula 10 comando IF
+- Aula 11 Condicional If Elif Else
 
