@@ -16,4 +16,6 @@ os principais separadores de comando são o **ENTER** ou **;**
 - Aula 09 List
 - Aula 10 comando IF
 - Aula 11 Condicional If Elif Else
+- Aula 12 Loop FOR
+- Aula 13 Função Input - para rodar no vscode, escolher o terminal CMD e no Menu terminal <executar arquivo ativo> ou terminal PowerShell para abrir nova janela
 
