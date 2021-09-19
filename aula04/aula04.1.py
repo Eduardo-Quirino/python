@@ -10,3 +10,4 @@ x = range(0,100,1)#List
 
 print("Valor: " + str(x[0]))
 print("Tipo: " + str(type(x)))
+input()  # deixa janela aberta

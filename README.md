@@ -8,14 +8,29 @@ os principais separadores de comando são o **ENTER** ou **;**
 2. comentários múltiplas linhas **" " "** e fecha **" " "**
 
 - Aula 03 Escopo de Variáveis
+
 - Aula 04 Tipos 
+
 - Aula 05 Tipos numéricos, random e operações de casting 
+
 - Aula 06 Strings p1
+
 - Aula 07 Strings p2
+
 - Aula 08 Boolean
+
 - Aula 09 List
+
 - Aula 10 comando IF
+
 - Aula 11 Condicional If Elif Else
+
 - Aula 12 Loop FOR
+
 - Aula 13 Função Input - para rodar no vscode, escolher o terminal CMD e no Menu terminal <executar arquivo ativo> ou terminal PowerShell para abrir nova janela
 
+  <import os> limpa o terminal
+
+  <os. systrm('cls')> no windows
+
+- Aula 14 Loop While

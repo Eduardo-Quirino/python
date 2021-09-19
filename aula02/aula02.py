@@ -7,4 +7,4 @@ if 10 > 2:
     print("aula 2")
 
 print("Fim")
-
+input()  # deixa janela aberta

@@ -6,3 +6,4 @@ def cn():
   
 cn()
 print(canal)
+input()  # deixa janela aberta
