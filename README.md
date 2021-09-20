@@ -34,3 +34,19 @@ os principais separadores de comando são o **ENTER** ou **;**
   <os. systrm('cls')> no windows
 
 - Aula 14 Loop While
+
+  >inicialização de variável de controle
+  >
+  >
+  >
+  >**while**(teste lógico)
+  >
+  > **comandos1**
+  >
+  > **comandos2**
+  >
+  > **comandosx**
+  >
+  >
+  >
+  >**incremento | decremento | controle da variável**
