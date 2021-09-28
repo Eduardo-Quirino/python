@@ -12,5 +12,5 @@ while carro != "0":
 for x in carros:
     print(x)
 
-print("\n\nFim do programa!")
+print("\n\nFim do programa!" + "\n\nTecle ENTER PARA SAIR!")
 input()#janela fica aberta 
